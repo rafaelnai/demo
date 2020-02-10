@@ -4,28 +4,28 @@
       "id": 1,
       "name": "guitar",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f3b8.png?v8",
-      "price": 12.5,
+      "price": 11.5,
       "amount": 1
     },
     {
       "id": 2,
       "name": "gun",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f52b.png?v8",
-      "price": 12.5,
+      "price": 9.8,
       "amount": 1
     },
     {
       "id": 3,
       "name": "guyana",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1fe.png?v8",
-      "price": 12.5,
+      "price": 13.9,
       "amount": 1
     },
     {
       "id": 4,
       "name": "haircut",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f487.png?v8",
-      "price": 12.5,
+      "price": 9.99,
       "amount": 1
     },
     {
@@ -39,105 +39,105 @@
       "id": 6,
       "name": "haircut_woman",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f487.png?v8",
-      "price": 12.5,
+      "price": 10.5,
       "amount": 1
     },
     {
       "id": 7,
       "name": "haiti",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f1ed-1f1f9.png?v8",
-      "price": 12.5,
+      "price": 7.9,
       "amount": 1
     },
     {
       "id": 8,
       "name": "hamburger",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f354.png?v8",
-      "price": 12.5,
+      "price": 6.0,
       "amount": 1
     },
     {
       "id": 9,
       "name": "hammer",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f528.png?v8",
-      "price": 12.5,
+      "price": 12.0,
       "amount": 1
     },
     {
       "id": 10,
       "name": "hammer_and_pick",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/2692.png?v8",
-      "price": 12.5,
+      "price": 19.9,
       "amount": 1
     },
     {
       "id": 11,
       "name": "hammer_and_wrench",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png?v8",
-      "price": 12.5,
+      "price": 11.5,
       "amount": 1
     },
     {
       "id": 12,
       "name": "hamster",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f439.png?v8",
-      "price": 12.5,
+      "price": 16.5,
       "amount": 1
     },
     {
       "id": 13,
       "name": "hand",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/270b.png?v8",
-      "price": 12.5,
+      "price": 17.8,
       "amount": 1
     },
     {
       "id": 14,
       "name": "handbag",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f45c.png?v8",
-      "price": 12.5,
+      "price": 2.5,
       "amount": 1
     },
     {
       "id": 15,
       "name": "handshake",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8",
-      "price": 12.5,
+      "price": 19.5,
       "amount": 1
     },
     {
       "id": 16,
       "name": "hankey",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png?v8",
-      "price": 12.5,
+      "price": 4.5,
       "amount": 1
     },
     {
       "id": 17,
       "name": "hash",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png?v8",
-      "price": 12.5,
+      "price": 2.5,
       "amount": 1
     },
     {
       "id": 18,
       "name": "hatched_chick",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f425.png?v8",
-      "price": 12.5,
+      "price": 14.0,
       "amount": 1
     },
     {
       "id": 19,
       "name": "hatching_chick",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f423.png?v8",
-      "price": 12.5,
+      "price": 11.0,
       "amount": 1
     },
     {
       "id": 20,
       "name": "headphones",
       "image": "https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png?v8",
-      "price": 12.5,
+      "price": 18.9,
       "amount": 1
     }
   ]
